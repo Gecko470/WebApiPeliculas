@@ -1,0 +1,20 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\autores\b6ed8161-1c3e-468d-ac7e-49f6566228ad.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebApiPeliculas</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebApiPeliculas</BasePath>
+      <RelativePath>autores/b6ed8161-1c3e-468d-ac7e-49f6566228ad.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\autores\b6ed8161-1c3e-468d-ac7e-49f6566228ad.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

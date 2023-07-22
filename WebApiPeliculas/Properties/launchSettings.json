@@ -1,0 +1,31 @@
+{
+  "profiles": {
+    "WebApiPeliculas": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/generos",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7014;http://localhost:5174"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/generos",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:3486",
+      "sslPort": 44305
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Yr+qkW2FDutuQPs2P2+Ni9tpQ89bvamcjCEa25Fag0U=",
+  "Source": "WebApiPeliculas",
+  "BasePath": "_content/WebApiPeliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiPeliculas\\wwwroot",
+      "Source": "WebApiPeliculas",
+      "ContentRoot": "C:\\Users\\juang\\Documents\\Mis Documentos\\Desarrollo\\.NET\\repos\\UDEMY\\Gavilan\\API\\Proyectos\\WebApiPeliculas\\WebApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/WebApiPeliculas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\juang\\Documents\\Mis Documentos\\Desarrollo\\.NET\\repos\\UDEMY\\Gavilan\\API\\Proyectos\\WebApiPeliculas\\WebApiPeliculas\\wwwroot\\autores\\b6ed8161-1c3e-468d-ac7e-49f6566228ad.jpg",
+      "SourceId": "WebApiPeliculas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juang\\Documents\\Mis Documentos\\Desarrollo\\.NET\\repos\\UDEMY\\Gavilan\\API\\Proyectos\\WebApiPeliculas\\WebApiPeliculas\\wwwroot\\",
+      "BasePath": "_content/WebApiPeliculas",
+      "RelativePath": "autores/b6ed8161-1c3e-468d-ac7e-49f6566228ad.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\autores\\b6ed8161-1c3e-468d-ac7e-49f6566228ad.jpg"
+    }
+  ]
+}
